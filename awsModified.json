@@ -1,0 +1,23 @@
+{
+  "Users": [
+    {
+      "Path": "/",
+      "UserName": "Admin",
+      "UserId": "AIDA1111111111EXAMPLE",
+      "Arn": "arn:aws:iam::123456789012:user/Admin",
+      "PasswordLastUsed": "2016-06-03T18:37:29+00:00"
+    },
+    {
+      "Path": "/backup/",
+      "UserName": "backup-user",
+      "UserId": "AIDA2222222222EXAMPLE",
+      "Arn": "arn:aws:iam::123456789012:user/backup/backup-user"
+    },
+    {
+      "Path": "/",
+      "UserName": "cli-user",
+      "UserId": "AIDA3333333333EXAMPLE",
+      "Arn": "arn:aws:iam::123456789012:user/cli-user"
+    }
+  ]
+}
